@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "d401d8db-ce2b-499b-a77e-efc2257fda70",
+		"name": "7th module",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21518163"
+	},
+	"item": [
+		{
+			"name": "with publish consume",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "publish",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

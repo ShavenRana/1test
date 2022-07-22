@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "14454fd4-7bbf-4714-a5a8-6062084c49bf",
+		"name": "10thmodule-errorhandling",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21518163"
+	},
+	"item": [
+		{
+			"name": "get",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

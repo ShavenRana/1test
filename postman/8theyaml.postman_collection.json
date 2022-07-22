@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "a6f04125-7fb8-4588-bab6-66bb562ef0ea",
+		"name": "8theyaml",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21518163"
+	},
+	"item": [
+		{
+			"name": "restandsoap",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "rest",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
